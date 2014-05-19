@@ -27,6 +27,16 @@
 			<key>Indent</key>
 			<integer>1</integer>
 		</dict>
+		<key>AppModel.h</key>
+		<dict>
+			<key>Path</key>
+			<string>AppModel.h</string>
+		</dict>
+		<key>AppModel.m</key>
+		<dict>
+			<key>Path</key>
+			<string>AppModel.m</string>
+		</dict>
 	</dict>
 	<key>Description</key>
 	<string>This template provides a starting point for a Manticore application. It provides the initial setup for manticore communication and manticore view factory.</string>
@@ -37,6 +47,8 @@
 	<key>Nodes</key>
 	<array>
 		<string>___PACKAGENAME___-Prefix.pch:Availability:iPhoneAvailability:3</string>
+		<string>AppModel.h</string>
+		<string>AppModel.m</string>
 	</array>
 </dict>
 </plist>
