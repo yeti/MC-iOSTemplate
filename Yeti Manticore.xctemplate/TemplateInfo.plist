@@ -31,11 +31,60 @@
 		<dict>
 			<key>Path</key>
 			<string>AppModel.h</string>
+			<key>Group</key>
+			<string>Models</string>
 		</dict>
 		<key>AppModel.m</key>
 		<dict>
 			<key>Path</key>
 			<string>AppModel.m</string>
+			<key>Group</key>
+			<string>Models</string>
+		</dict>
+		<key>DataModel.h</key>
+		<dict>
+			<key>Path</key>
+			<string>DataModel.h</string>
+			<key>Group</key>
+			<string>Models</string>
+		</dict>
+		<key>DataModel.m</key>
+		<dict>
+			<key>Path</key>
+			<string>DataModel.m</string>
+			<key>Group</key>
+			<string>Models</string>
+		</dict>
+		<key>MachineDataModel.h</key>
+		<dict>
+			<key>Path</key>
+			<string>MachineDataModel.h</string>
+			<key>Group</key>
+			<string>Machine</string>
+		</dict>
+		<key>MachineDataModel.m</key>
+		<dict>
+			<key>Path</key>
+			<string>MachineDataModel.m</string>
+			<key>Group</key>
+			<string>Machine</string>
+		</dict>
+		<key>AppConstants.h</key>
+		<dict>
+			<key>Path</key>
+			<string>AppConstants.h</string>
+			<key>Group</key>
+			<string>Utilities</string>
+		</dict>
+		<key>MCErrorViewController.xib</key>
+		<dict>
+			<key>Path</key>
+			<string>MCErrorViewController.xib</string>
+		</dict>
+		<key>MCMainViewController.xib</key>
+		<dict>
+			<key>Path</key>
+			<string>MCMainViewController.xib</string>
 		</dict>
 	</dict>
 	<key>Description</key>
@@ -49,6 +98,13 @@
 		<string>___PACKAGENAME___-Prefix.pch:Availability:iPhoneAvailability:3</string>
 		<string>AppModel.h</string>
 		<string>AppModel.m</string>
+		<string>DataModel.h</string>
+		<string>DataModel.m</string>
+		<string>MachineDataModel.h</string>
+		<string>MachineDataModel.m</string>
+		<string>AppConstants.h</string>
+		<string>MCErrorViewController.xib</string>
+		<string>MCMainViewController.xib</string>
 	</array>
 </dict>
 </plist>
